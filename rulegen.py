@@ -1,11 +1,11 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 # Rulegen.py - Advanced automated password rule and wordlist generator for the 
 #              Hashcat password cracker using the Levenshtein Reverse Path 
 #              algorithm and Enchant spell checking library.
 #
 # This tool is part of PACK (Password Analysis and Cracking Kit)
 #
-# VERSION 0.0.3
+# VERSION 0.0.4
 #
 # Copyright (C) 2013 Peter Kacherginsky
 # All rights reserved.

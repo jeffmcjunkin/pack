@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 # StatsGen - Password Statistical Analysis tool
 #
 # This tool is part of PACK (Password Analysis and Cracking Kit)
@@ -14,7 +14,7 @@ import operator
 import string
 from optparse import OptionParser, OptionGroup
 
-VERSION = "0.0.3"
+VERSION = "0.0.4"
 
 
 class StatsGen:
